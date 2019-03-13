@@ -7,5 +7,3 @@ def
 end
 
 display_rainbow("color")
-
-
