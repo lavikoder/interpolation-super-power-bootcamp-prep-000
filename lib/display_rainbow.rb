@@ -8,3 +8,4 @@ end
 
 display_rainbow("color")
 
+
